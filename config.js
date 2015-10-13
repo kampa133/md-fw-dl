@@ -6,14 +6,14 @@ modes: {
 },
 
 sites: {
-  "abg": {id: "abg", version: "0.7.5-abg-stable20150913", name: "Arnsberg"},
+  "abg": {id: "abg", version: "0.7.5-abg-stable20150913000000000", name: "Arnsberg"},
   "bal": {id: "bal", version: "0.7.5-balvekierspe-stable20151011", name: "Balve Kierspe"},
-  "big": {id: "big", version: "0.7.5-bsee-stable20150913", name: "Biggesee"},
-  "mes": {id: "mes", version: "0.7.5-mesbes-stable20150914", name: "Meschede Bestwig"},
-  "moq": {id: "moq", version: "0.7.5-mq-stable20150914", name: "Moehnequelle"},
-  "mos": {id: "mos", version: "0.7.5-msee-stable20150914", name: "Moehnesee"},
-  "sso": {id: "sso", version: "0.7.5-soest-stable20151011", name: "Stadt Soest"}
-  "sou": {id: "ssu", version: "0.7.5-sundern-stable20151011", name: "Soester Umland"}
+  "big": {id: "big", version: "0.7.5-bsee-stable2015091300000000", name: "Biggesee"},
+  "mes": {id: "mes", version: "0.7.5-mesbes-stable20150914000000", name: "Meschede Bestwig"},
+  "moq": {id: "moq", version: "0.7.5-mq-stable201509140000000000", name: "Moehnequelle"},
+  "mos": {id: "mos", version: "0.7.5-msee-stable2015091400000000", name: "Moehnesee"},
+  "sso": {id: "sso", version: "0.7.5-soest-stable201510110000000", name: "Stadt Soest"}
+  "sou": {id: "ssu", version: "0.7.5-sundern-stable2015101100000", name: "Soester Umland"}
 },
 
 //router list for gluon v2015.1
